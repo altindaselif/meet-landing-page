@@ -4,13 +4,13 @@ This is a Meet Landing Page that you can use on your websites.
 
 ## Screenshots
 
-- **Desktop:** ![Desktop Screenshot](desktop-screenshot.png)
-- **Tablet:** ![Mobile Screenshot](tablet-screenshot.png)
-- **Mobile:** ![Mobile Screenshot](mobile-screenshot.png)
+- **Desktop:** [Desktop Screenshot](desktop-screenshot.png)
+- **Tablet:** [Mobile Screenshot](tablet-screenshot.png)
+- **Mobile:** [Mobile Screenshot](mobile-screenshot.png)
 
 ## Links
 
-- **GitHub Repository:** [View Code](https://github.com/altindaselif/testimonials-grid-section-main)
+- **GitHub Repository:** [View Code](https://github.com/altindaselif/meet-landing-page)
 - **Live Demo:** [View Live Site](https://altindaselif.github.io/testimonials-grid-section-main/)
 
 ## Built With
